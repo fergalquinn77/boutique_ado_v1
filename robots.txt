@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ci-fq-boutique-ado.herokuapp.com/sitemap.xml
